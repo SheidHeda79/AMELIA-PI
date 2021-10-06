@@ -1,0 +1,37 @@
+	body{
+  		background-color: #000b10 !important;
+ 		}
+  		   /*fundo do corpo todo preto*/
+ 		
+	
+	
+		
+ 		
+
+ 		
+		.cor-verde{
+    	background-color: green;
+    	color:white;
+    	border-color:#006400;
+ 		}
+
+ 		.button-task{ 
+ 		
+ 		}
+
+ 		.imagem-de-logo{
+ 			width: 115px;
+ 		}
+
+ 		.centro-texto{
+ 			text-align: center;
+ 		
+ 		}
+ 		.janela{
+ 			background-color: red; 
+			border:2px solid red; 
+			padding: 10px; 
+			text-align:justify;
+			 		}
+ 		
+ 		
