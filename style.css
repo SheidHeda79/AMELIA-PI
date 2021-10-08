@@ -9,14 +9,19 @@
  		
 
  		
-		.cor-verde{
-    	background-color: green;
+		.cor-button{
+    	background-color: #2574A9;
+    	color:white;
+    	border-color: blue;
+ 		}
+
+ 		.cor-tarefas{
     	color:white;
     	border-color:#006400;
  		}
 
  		.button-task{ 
- 		
+ 		margin-top: 10px;
  		}
 
  		.imagem-de-logo{
@@ -27,11 +32,30 @@
  			text-align: center;
  		
  		}
+
+  		.input-task{
+  			padding-left: 20px;
+  		}
+
  		.janela{
- 			background-color: red; 
-			border:2px solid red; 
-			padding: 10px; 
+ 			background-color: ;
+ 			margin-top: 10px; 
+			border:2px solid ; 
+			padding: 30px 100px 30px 100px; 
 			text-align:justify;
 			 		}
+		.janela-tarefa{
+			padding: 500px 100px 30px 100px; 
+			text-align:justify;
+			margin-bottom: 10px;
+			
+		}
+
+		.janela-tempo{
+			padding: 30px 100px 30px 100px; 
+			text-align:justify;
+			margin-bottom: 10px;
+			margin-top: 10px;
+		}
  		
  		
