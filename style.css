@@ -1,61 +1,73 @@
-	body{
-  		background-color: #000b10 !important;
- 		}
-  		   /*fundo do corpo todo preto*/
- 		
-	
-	
-		
- 		
 
- 		
-		.cor-button{
+body{
+  	background-color: #000b10 !important;
+ 	}
+
+
+.center-text{
+ 	text-align: center;
+ 	}
+
+.window{
+ 	border:2px solid ; 
+	text-align:justify;
+ 	}
+
+.imagem-de-logo{
+ 	width: 115px;
+ 	}
+
+
+
+/*Começo do CSS das Tarefas*/
+	.cor-button{
     	background-color: #2574A9;
     	color:white;
     	border-color: blue;
  		}
 
- 		.cor-tarefas{
-    	color:white;
-    	border-color:#006400;
+ 	.cor-task{
+    	color: white;
+    	border-color: white;
+    	text-align: left;
  		}
 
- 		.button-task{ 
+ 	.button-task{ 
  		margin-top: 10px;
  		}
 
- 		.imagem-de-logo{
- 			width: 115px;
- 		}
-
- 		.centro-texto{
- 			text-align: center;
- 		
- 		}
-
-  		.input-task{
-  			padding-left: 20px;
+ 	.input-task{
+  		padding-left: ;
   		}
 
- 		.janela{
- 			background-color: ;
- 			margin-top: 10px; 
-			border:2px solid ; 
-			padding: 30px 100px 30px 100px; 
-			text-align:justify;
-			 		}
-		.janela-tarefa{
-			padding: 500px 100px 30px 100px; 
-			text-align:justify;
-			margin-bottom: 10px;
-			
+ 	.window-task{
+		text-align:justify;
+		float: left;
+		padding: 30px 300px 180px 100px;
+		margin: 15px 10px 10px 50px; 
 		}
 
-		.janela-tempo{
-			padding: 30px 100px 30px 100px; 
-			text-align:justify;
-			margin-bottom: 10px;
-			margin-top: 10px;
+/*Fim do CSS das Tarefas*/
+
+
+/*Começo do CSS do Tempo*/
+	.cor-time{
+    	color:white;
+    	border-color:white;
+ 		}
+
+ 	.time-time{
+ 		margin-top: 10px;
+ 	}
+
+	.window-time{
+		text-align:justify;
+		float: right;
+		padding: 30px 100px 150px 300px;
+		margin: 15px 50px 10px 10px;
+
 		}
- 		
+/*Fim do CSS das Tarefas*/
+
+
  		
